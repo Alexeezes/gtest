@@ -9,7 +9,7 @@ int main() {
         printf("%f %f\n", arr[0], arr[1]);
     }
     else{
-        printf("NO ROOTS");
+        printf("ROOTS NOT FOUND");
     }
     return 0;
 }
